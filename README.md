@@ -1,2 +1,2 @@
 # Laradock
-A light weight Docker image for Laravel 5.x development.
+A lightweight Docker image for Laravel 5.x development.
